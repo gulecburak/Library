@@ -1,0 +1,93 @@
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe.config
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.pdb
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.dll
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.xml
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.exe
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.pdb
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.frmAnaSayfa.resources
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.Giris.resources
+C:\Users\Windows 10\source\repos\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKitapEkle.resources
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe.config
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.pdb
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.dll
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.xml
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csprojAssemblyReference.cache
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKitapEkle.resources
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.frmAnaSayfa.resources
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Properties.Resources.resources
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.GenerateResource.cache
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CoreCompileInputs.cache
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CopyComplete
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.pdb
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmOgrenciEkle.resources
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKayıtEkle.resources
+C:\Users\TR\Desktop\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmGiris.resources
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe.config
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.pdb
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.dll
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.xml
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csprojAssemblyReference.cache
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKayıtEkle.resources
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKitapEkle.resources
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmOgrenciEkle.resources
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmGiris.resources
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.frmAnaSayfa.resources
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Properties.Resources.resources
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.GenerateResource.cache
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CoreCompileInputs.cache
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CopyComplete
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.pdb
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe.config
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.pdb
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.dll
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.xml
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csprojAssemblyReference.cache
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKayıtEkle.resources
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKitapEkle.resources
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmOgrenciEkle.resources
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmGiris.resources
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.frmAnaSayfa.resources
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Properties.Resources.resources
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.GenerateResource.cache
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CoreCompileInputs.cache
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CopyComplete
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\Yedek 24042019 OğuzDell\Desktop\Projeler\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.pdb
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe.config
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\bin\Debug\KütüphaneV1.pdb
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.dll
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.xml
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csprojAssemblyReference.cache
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKayıtEkle.resources
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmKitapEkle.resources
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmOgrenciEkle.resources
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Formlar.frmGiris.resources
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.frmAnaSayfa.resources
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.Properties.Resources.resources
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.GenerateResource.cache
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CoreCompileInputs.cache
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.csproj.CopyComplete
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.exe
+C:\Users\TR\Desktop\Tüm Örnekler\Bakılacaklar Listesi\KütüphaneV1\KütüphaneV1\obj\Debug\KütüphaneV1.pdb
